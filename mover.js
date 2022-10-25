@@ -21,7 +21,7 @@ class Mover {
 
    
    stroke(r,g, b) 
-    line(10,200, 10,this.pos.y)
+    line(10,500, 10,this.pos.y)
     stroke(r,g, b,60) 
     line(20,this.pos.x, 20,200) 
     stroke(r,g, b) 
